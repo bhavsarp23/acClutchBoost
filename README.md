@@ -100,4 +100,8 @@ This project interfaces with automotive electrical systems. Improper installatio
 
 ## License
 
-CERN-OHL-W v2
+## License
+
+This project is licensed under the **CERN Open Hardware Licence v2 – Weakly Reciprocal (CERN-OHL-W v2)**.
+
+You are free to use, modify, manufacture, and distribute this hardware design, provided that any modifications to the licensed material are released under the same license.
