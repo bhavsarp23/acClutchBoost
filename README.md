@@ -94,10 +94,10 @@ It is not a replacement for proper mechanical repair, but a practical electrical
 
 ## Disclaimer
 
-This project interfaces with automotive electrical systems. Improper installation or tuning may result in damage to vehicle components. Use at your own risk.
+This project interfaces with automotive electrical systems. Improper installation or tuning may result in damage to vehicle components or injury. Use at your own risk.
 
 ---
 
 ## License
 
-Specify lic
+CERN-OHL-W v2
